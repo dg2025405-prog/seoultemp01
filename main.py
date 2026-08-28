@@ -1,4 +1,3 @@
-```python
 import streamlit as st
 import pandas as pd
 
@@ -290,4 +289,3 @@ st.caption(
 st.caption(
     "비교 기준: 선택한 기간과 동일한 날짜 수의 연속 기간 중 평균기온"
 )
-```
